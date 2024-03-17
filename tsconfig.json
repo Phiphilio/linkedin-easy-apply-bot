@@ -19,6 +19,7 @@
         "inlineSources": true,
         "declaration": false,
         "noEmit": false,
-        "outDir": "./.ts-node"
+        "outDir": "./.ts-node",
+        "allowImportingTsExtensions": true
     }
 }

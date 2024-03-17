@@ -1,5 +1,5 @@
 import puppeteer, { Page } from "puppeteer";
-import config from "../config";
+import config from "../config.ts";
 
 import ask from "../utils/ask";
 import login from "../login";
